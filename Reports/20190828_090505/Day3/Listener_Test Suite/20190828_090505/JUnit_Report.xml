@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites name="Listener_Test Suite" time="1" tests="1" failures="0" errors="0">
+    <testsuite name="Listener_Test Suite" tests="1" failures="0" errors="0" time="1" timestamp="2019-08-28 09:05:12" hostname="romi.weiss - VAN-BT-L021.1800GOTJUNK.com" id="Test Suites/Day3/Listener_Test Suite">
+        <properties>
+            <property name="deviceName" value=""/>
+            <property name="devicePlatform" value=""/>
+            <property name="logFolder" value="C:\\Users\\romi.weiss\\KatalonDemo_Aug26\\Reports\\20190828_090505\\Day3\\Listener_Test Suite\\20190828_090505"/>
+            <property name="logFiles" value="C:\\Users\\romi.weiss\\KatalonDemo_Aug26\\Reports\\20190828_090505\\Day3\\Listener_Test Suite\\20190828_090505\\execution0.log"/>
+            <property name="attachments" value=""/>
+            <property name="hostName" value="romi.weiss - VAN-BT-L021.1800GOTJUNK.com"/>
+            <property name="hostAddress" value="10.101.2.14"/>
+            <property name="os" value="Windows 10 64bit"/>
+            <property name="katalonVersion" value="6.3.2.4"/>
+        </properties>
+        <testcase name="Test Cases/Day3/ListenerDemo" classname="Test Cases/Day3/ListenerDemo" status="PASSED">
+            <system-out>2019-08-28 09:05:13 - [TEST_CASE][PASSED] - Test Cases/Day3/ListenerDemo: Test Cases/Day3/ListenerDemo&#xD;
+&#xD;
+2019-08-28 09:05:13 - [TEST_STEP][PASSED] - Start setup action : setupTestCase: Method 'setupTestCase' complete successfully&#xD;
+&#xD;
+2019-08-28 09:05:13 - [TEST_STEP][PASSED] - println("inside setupTestCase"): null&#xD;
+&#xD;
+2019-08-28 09:05:13 - [MESSAGE][PASSED] - Method 'setupTestCase' complete successfully&#xD;
+&#xD;
+2019-08-28 09:05:14 - [TEST_STEP][PASSED] - println("Coffee Coffee Coffee"): null&#xD;
+&#xD;
+2019-08-28 09:05:14 - [TEST_STEP][PASSED] - Start tear down : tearDownTestCase: Method 'tearDownTestCase' complete successfully&#xD;
+&#xD;
+2019-08-28 09:05:14 - [TEST_STEP][PASSED] - println("inside tearDownTestCase"): null&#xD;
+&#xD;
+2019-08-28 09:05:14 - [MESSAGE][PASSED] - Method 'tearDownTestCase' complete successfully</system-out>
+            <system-err></system-err>
+        </testcase>
+        <system-out>2019-08-28 09:05:12 - [TEST_SUITE][INCOMPLETE] - Listener_Test Suite: null</system-out>
+        <system-err>2019-08-28 09:05:12 - [TEST_SUITE][INCOMPLETE] - Listener_Test Suite: null</system-err>
+    </testsuite>
+</testsuites>

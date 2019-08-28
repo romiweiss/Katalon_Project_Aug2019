@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HWTestSuite2,Chrome 76.0.3809.100,,,2019-08-26 18:27:20,2019-08-26 18:29:11,1m - 51.104s,INCOMPLETE
+,,,,,,,
+Test Cases/Day1_Homework/HWTestCase2_manual,Chrome 76.0.3809.100,,,2019-08-26 18:27:20,2019-08-26 18:28:16,55.240s,PASSED
+"openBrowser("""")",Chrome 76.0.3809.100,,,2019-08-26 18:27:21,2019-08-26 18:27:26,5.182s,PASSED
+"navigateToUrl(""https://www.allrecipes.com"")",Chrome 76.0.3809.100,,,2019-08-26 18:27:26,2019-08-26 18:27:45,18.359s,PASSED
+"click(findTestObject(""Page_Allrecipes  Food friends and recipe inspiration/div_img-profile-userhead-dims""))",Chrome 76.0.3809.100,,,2019-08-26 18:27:45,2019-08-26 18:27:48,3.741s,PASSED
+"click(findTestObject(""Page_Allrecipes - Authentication Welcome/span_Sign in""))",Chrome 76.0.3809.100,,,2019-08-26 18:27:48,2019-08-26 18:27:50,1.909s,PASSED
+"setText(findTestObject(""Page_Allrecipes - Signin/input_Existing Allrecipes users_txtUserNameOrEmail""), ""romilovesvball@hotmail.com"")",Chrome 76.0.3809.100,,,2019-08-26 18:27:50,2019-08-26 18:27:51,0.576s,PASSED
+"setEncryptedText(findTestObject(""Page_Allrecipes - Signin/input_Existing Allrecipes users_password""), ""CEPYRHojllAQGKkyi7TA0g=="")",Chrome 76.0.3809.100,,,2019-08-26 18:27:51,2019-08-26 18:27:51,0.418s,PASSED
+"click(findTestObject(""Page_Allrecipes - Signin/input_Forgot password_submitLogInForm""))",Chrome 76.0.3809.100,,,2019-08-26 18:27:51,2019-08-26 18:27:59,7.282s,PASSED
+"setText(findTestObject(""Page_Allrecipes  Food friends and recipe inspiration/input_BROWSE_searchText""), ""mac 'n' cheese"")",Chrome 76.0.3809.100,,,2019-08-26 18:27:59,2019-08-26 18:28:00,1.548s,PASSED
+"click(findTestObject(""Page_Allrecipes - Authentication Welcome/span_BROWSE-search-magnify-dims""))",Chrome 76.0.3809.100,,,2019-08-26 18:28:00,2019-08-26 18:28:07,7.063s,PASSED
+"click(findTestObject(""Page_Search - Allrecipescom/span_romilovesvball""))",Chrome 76.0.3809.100,,,2019-08-26 18:28:07,2019-08-26 18:28:09,1.804s,PASSED
+"click(findTestObject(""Page_Search - Allrecipescom/button_Sign out""))",Chrome 76.0.3809.100,,,2019-08-26 18:28:09,2019-08-26 18:28:15,5.810s,PASSED
+closeBrowser(),Chrome 76.0.3809.100,,,2019-08-26 18:28:15,2019-08-26 18:28:16,0.914s,PASSED
+,,,,,,,
+Test Cases/Day1_Homework/HWTestCase3_script,Chrome 76.0.3809.100,,,2019-08-26 18:28:16,2019-08-26 18:29:11,55.345s,PASSED
+"openBrowser("""")",Chrome 76.0.3809.100,,,2019-08-26 18:28:16,2019-08-26 18:28:19,2.727s,PASSED
+"navigateToUrl(""https://www.allrecipes.com"")",Chrome 76.0.3809.100,,,2019-08-26 18:28:19,2019-08-26 18:28:42,23.061s,PASSED
+"click(findTestObject(""Page_Allrecipes  Food friends and recipe inspiration/div_img-profile-userhead-dims""))",Chrome 76.0.3809.100,,,2019-08-26 18:28:42,2019-08-26 18:28:44,2.682s,PASSED
+"click(findTestObject(""Object Repository/Page_Allrecipes - Authentication Welcome/span_Sign in""))",Chrome 76.0.3809.100,,,2019-08-26 18:28:44,2019-08-26 18:28:47,2.041s,PASSED
+"setText(findTestObject(""Page_Allrecipes - Signin/input_Existing Allrecipes users_txtUserNameOrEmail""), ""romilovesvball@hotmail.com"")",Chrome 76.0.3809.100,,,2019-08-26 18:28:47,2019-08-26 18:28:47,0.355s,PASSED
+"setEncryptedText(findTestObject(""Page_Allrecipes - Signin/input_Existing Allrecipes users_password""), ""CEPYRHojllAQGKkyi7TA0g=="")",Chrome 76.0.3809.100,,,2019-08-26 18:28:47,2019-08-26 18:28:47,0.250s,PASSED
+"click(findTestObject(""Page_Allrecipes - Signin/input_Forgot password_submitLogInForm""))",Chrome 76.0.3809.100,,,2019-08-26 18:28:47,2019-08-26 18:28:55,7.567s,PASSED
+"setText(findTestObject(""Page_Allrecipes  Food friends and recipe inspiration/input_BROWSE_searchText""), ""guacamole"")",Chrome 76.0.3809.100,,,2019-08-26 18:28:55,2019-08-26 18:28:59,4.652s,PASSED
+"click(findTestObject(""Page_Allrecipes - Authentication Welcome/span_BROWSE-search-magnify-dims""))",Chrome 76.0.3809.100,,,2019-08-26 18:28:59,2019-08-26 18:29:05,6.143s,PASSED
+"click(findTestObject(""Object Repository/Page_Search - Allrecipescom/span_romilovesvball""))",Chrome 76.0.3809.100,,,2019-08-26 18:29:05,2019-08-26 18:29:10,4.587s,PASSED
+closeBrowser(),Chrome 76.0.3809.100,,,2019-08-26 18:29:10,2019-08-26 18:29:11,1.024s,PASSED

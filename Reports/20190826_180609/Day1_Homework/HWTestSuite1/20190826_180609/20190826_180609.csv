@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HWTestSuite1,,,,2019-08-26 18:06:15,2019-08-26 18:06:19,4.141s,INCOMPLETE
+,,,,,,,
+Test Cases/Day1_Homework/HWTestCase1_record,,,,2019-08-26 18:06:16,2019-08-26 18:06:19,3.335s,FAILED
+"openBrowser("""")",,,,2019-08-26 18:06:17,2019-08-26 18:06:19,2.048s,FAILED

@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Listener_Test Suite,,,,2019-08-28 09:05:12,2019-08-28 09:05:14,1.730s,INCOMPLETE
+,,,,,,,
+Test Cases/Day3/ListenerDemo,,,,2019-08-28 09:05:13,2019-08-28 09:05:14,0.462s,PASSED
+Start setup action : setupTestCase,,,,2019-08-28 09:05:13,2019-08-28 09:05:13,0.006s,PASSED
+"println(""Coffee Coffee Coffee"")",,,,2019-08-28 09:05:14,2019-08-28 09:05:14,0.007s,PASSED
+Start tear down : tearDownTestCase,,,,2019-08-28 09:05:14,2019-08-28 09:05:14,0.007s,PASSED

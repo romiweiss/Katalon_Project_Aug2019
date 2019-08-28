@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase2_manual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39b713c3-2ced-467a-9b80-a0394fb154f9</testCaseGuid>
+   <variable>
+      <defaultValue>'romilovesvball@hotmail.com'</defaultValue>
+      <description></description>
+      <id>9c2b8eab-88f7-439c-b608-020f5cb26175</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10e8d447-002d-4f33-b410-a3aa77a43e06</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6cb0b46a-0bd6-493c-8184-8f51ba0ce64a</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e842a48-eba2-4184-880b-74611c60c08d</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+</TestCaseEntity>

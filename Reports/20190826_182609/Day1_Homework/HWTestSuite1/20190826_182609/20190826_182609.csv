@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HWTestSuite1,Chrome 76.0.3809.100,,,2019-08-26 18:26:13,2019-08-26 18:27:07,54.590s,INCOMPLETE
+,,,,,,,
+Test Cases/Day1_Homework/HWTestCase1_record,Chrome 76.0.3809.100,,,2019-08-26 18:26:13,2019-08-26 18:27:07,54.140s,PASSED
+"openBrowser("""")",Chrome 76.0.3809.100,,,2019-08-26 18:26:14,2019-08-26 18:26:20,5.759s,PASSED
+"navigateToUrl(""https://www.allrecipes.com/"")",Chrome 76.0.3809.100,,,2019-08-26 18:26:20,2019-08-26 18:26:33,13.555s,PASSED
+"click(findTestObject(""Page_Allrecipes  Food friends and recipe inspiration/div_img-profile-userhead-dims""))",Chrome 76.0.3809.100,,,2019-08-26 18:26:33,2019-08-26 18:26:36,2.828s,PASSED
+"click(findTestObject(""Page_Allrecipes - Authentication Welcome/span_Sign in""))",Chrome 76.0.3809.100,,,2019-08-26 18:26:36,2019-08-26 18:26:38,1.608s,PASSED
+"setText(findTestObject(""Page_Allrecipes - Signin/input_Existing Allrecipes users_txtUserNameOrEmail""), ""romilovesvball@hotmail.com"")",Chrome 76.0.3809.100,,,2019-08-26 18:26:38,2019-08-26 18:26:38,0.458s,PASSED
+"setEncryptedText(findTestObject(""Page_Allrecipes - Signin/input_Existing Allrecipes users_password""), ""CEPYRHojllAQGKkyi7TA0g=="")",Chrome 76.0.3809.100,,,2019-08-26 18:26:38,2019-08-26 18:26:38,0.352s,PASSED
+"click(findTestObject(""Page_Allrecipes - Signin/input_Forgot password_submitLogInForm""))",Chrome 76.0.3809.100,,,2019-08-26 18:26:38,2019-08-26 18:26:47,8.799s,PASSED
+"setText(findTestObject(""Page_Allrecipes  Food friends and recipe inspiration/input_BROWSE_searchText""), ""meatballs"")",Chrome 76.0.3809.100,,,2019-08-26 18:26:47,2019-08-26 18:26:49,1.634s,PASSED
+"click(findTestObject(""Page_Allrecipes - Authentication Welcome/span_BROWSE-search-magnify-dims""))",Chrome 76.0.3809.100,,,2019-08-26 18:26:49,2019-08-26 18:26:54,5.456s,PASSED
+"click(findTestObject(""Object Repository/Page_Search - Allrecipescom/span_romilovesvball""))",Chrome 76.0.3809.100,,,2019-08-26 18:26:54,2019-08-26 18:26:59,4.527s,PASSED
+"click(findTestObject(""Page_Search - Allrecipescom/button_Sign out""))",Chrome 76.0.3809.100,,,2019-08-26 18:26:59,2019-08-26 18:27:06,7.756s,PASSED
+closeBrowser(),Chrome 76.0.3809.100,,,2019-08-26 18:27:06,2019-08-26 18:27:07,0.956s,PASSED
